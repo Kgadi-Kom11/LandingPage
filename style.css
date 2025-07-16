@@ -29,8 +29,8 @@ button {
   height: 50px;
   border: 2px solid #fff;
   border-radius: 20px;
-  color: #fff;
-  font-size: 20px;
+  color: #E5E7EB;
+  font-size: 18px;
 }
 
 blockquote {
@@ -52,7 +52,7 @@ blockquote {
 }
 
 .logo {
-  font-size: 20px;
+  font-size: 24px;
   text-transform: uppercase;
 }
 
@@ -65,7 +65,7 @@ blockquote {
 }
 
 .hero-content > h1, .hero-content > p {
-  color: #fff;
+  color: #F9FAF8;
   margin: 0;
 }
 
@@ -80,6 +80,9 @@ blockquote {
 
 .information > h1 {
   text-align: center;
+  font-size: 36px;
+  font-weight: 900;
+  color: #1F2937;
 }
 
 .languages {
