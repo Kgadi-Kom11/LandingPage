@@ -141,3 +141,14 @@ blockquote {
   margin: 0;
   padding: 0;
 }
+
+.footer {
+  background-color: #1F2937;
+  color: #fff;
+  height: 80px;
+}
+
+.footer > p {
+  text-align: center;
+  padding: 30px 0;
+}
