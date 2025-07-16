@@ -66,3 +66,31 @@ button {
   font-size: 18px;
   margin-bottom: 25px;
 }
+
+.information > h1 {
+  text-align: center;
+}
+
+.languages {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-shrink: 1;
+  padding: 20px;
+}
+
+.lang-items {
+  max-width: 300px;
+}
+
+.lang-items > p {
+  margin-top: 0;
+  text-align: center;
+}
+
+.langPhoto {
+  width: 150px;
+  height: 150px;
+  border: 2px solid #3882F6;
+  border-radius: 9px ;
+}
